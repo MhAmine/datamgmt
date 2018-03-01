@@ -9,12 +9,12 @@ Initial Review Checklist
     -   [Does not use acronyms](#does-not-use-acronyms)
 -   [Abstract](#abstract)
     -   [Minimum 100 words](#minimum-100-words)
--   [Data files](#data-files)
+-   [Data](#data)
     -   [At least one data file](#at-least-one-data-file)
     -   [No xls/xlsx files](#no-xlsxlsx-files)
     -   [File contents and relationships among files are clear](#file-contents-and-relationships-among-files-are-clear)
-    -   [All attributes are defined (in methods or in email)](#all-attributes-are-defined-in-methods-or-in-email)
-    -   [Column names do not use spaces or special characters.](#column-names-do-not-use-spaces-or-special-characters.)
+    -   [All attributes are clearly defined](#all-attributes-are-clearly-defined)
+    -   [Column names do not use spaces or special characters](#column-names-do-not-use-spaces-or-special-characters)
     -   [NA's are defined.](#nas-are-defined.)
 -   [Contacts](#contacts)
     -   [At least one contact with email and orcid](#at-least-one-contact-with-email-and-orcid)
@@ -42,11 +42,15 @@ Starting email text
 
 ### Deadlines
 
-If the PI is checking about dates/timing: &gt; We process submissions in the order in which they are received, and yours still has a few ahead of it in our queue. Are you facing any deadlines? If so, we may be able to expedite publication of your submission.
+If the PI is checking about dates/timing:
+
+> We process submissions in the order in which they are received, and yours still has a few ahead of it in our queue. Are you facing any deadlines? If so, we may be able to expedite publication of your submission.
 
 ### Pre-set DOI's
 
-If the PI needs DOI's right away: &gt; We can provide you with pre-set DOI's that you can reference in your paper. However, they will not render until we are finished processing your submission.
+If the PI needs DOI's right away:
+
+> We can provide you with pre-set DOI's that you can reference in your paper. However, they will not render until we are finished processing your submission.
 
 Title
 -----
@@ -66,8 +70,8 @@ Abstract
 
 > Your abstract, while informative, appears to be missing some information. We suggest that the abstract be sufficiently descriptive for a general scientific audience. It should provide an overview of the scientific context/project/hypotheses, how this data set fits into the larger project, a synopsis of the experimental or sampling design, and a summary of the data contents. If you prefer and it is appropriate, we could add language from the abstract in the NSF Award found here: \[NSF AWARD URL\]
 
-Data files
-----------
+Data
+----
 
 #### At least one data file
 
@@ -81,11 +85,9 @@ Data files
 
 > Could you provide a short description of the files submitted? Information about how each file was generated (what software, source files, etc.) allows other scientists to reproduce your work.
 
-#### All attributes are defined (in methods or in email)
+#### All attributes are clearly defined
 
-    - Column headers are clear
-    - Abbreviations are clear
-    - Units are clear
+Check for descriptions of abbreviations and units:
 
 > Could you describe \_\_\_\_?
 
@@ -95,7 +97,7 @@ Data files
 
 > What are the units of measurement for the columns labeled “ABC” and “XYZ”?
 
-#### Column names do not use spaces or special characters.
+#### Column names do not use spaces or special characters
 
 > Data files should include column headers without special characters or spaces (i.e., Exp\_no, NO3\_M, Organic\_M, as per “Some Simple Guidelines for Effective Data Management” - <http://onlinelibrary.wiley.com/doi/10.1890/0012-9623-90.2.205/full>).
 
@@ -104,8 +106,6 @@ Data files
 > What do the NA's in your measurements represent? (instrument failure, etc.)
 
 > We noticed that the data files contain blank cells. What do these represent?
-
-> We noticed that no data files were submitted. With the exception of sensitive social science data, NSF requires the submission of all data products prior to publication. Do you intend to submit data files?
 
 Contacts
 --------
@@ -137,9 +137,9 @@ Methods
 
 Submissions should:
 
-    - provide instrument names
-    - specify how sampling locations were chosen
-    - provide citations for sampling methods that are not explained in detail
+-   provide instrument names
+-   specify how sampling locations were chosen
+-   provide citations for sampling methods that are not explained in detail
 
 > Your methods, while informative, appear to be missing some information. Enough detail should be included so that a reasonable scientist can replicate the study without consulting you nor any other resources. This should hold true today, or even decades or a century from now. Users need to understand how the data were collected, how to interpret the values, and potentially how to use the data in the case of specialized files. We would be happy to add more content for you. Please provide us with a more robust methods section directly in this email or point us to a document from which we can extract more methods.
 

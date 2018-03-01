@@ -21,10 +21,12 @@ output:
 
 ### Deadlines
 If the PI is checking about dates/timing:
+
 > We process submissions in the order in which they are received, and yours still has a few ahead of it in our queue. Are you facing any deadlines? If so, we may be able to expedite publication of your submission.
 
 ### Pre-set DOI's
 If the PI needs DOI's right away:
+
 > We can provide you with pre-set DOI's that you can reference in your paper. However, they will not render until we are finished processing your submission.
 
 ## Title
@@ -55,9 +57,7 @@ If the PI needs DOI's right away:
 
 #### All attributes are clearly defined
 
-    - Column headers are clear
-    - Abbreviations are clear
-    - Units are clear
+Check for descriptions of abbreviations and units:
 
 > Could you describe ____? 
 
@@ -99,9 +99,9 @@ If the PI needs DOI's right away:
 
 Submissions should:
 
-    - provide instrument names
-    - specify how sampling locations were chosen
-    - provide citations for sampling methods that are not explained in detail
+- provide instrument names
+- specify how sampling locations were chosen
+- provide citations for sampling methods that are not explained in detail
 
 > Your methods, while informative, appear to be missing some information. Enough detail should be included so that a reasonable scientist can replicate the study without consulting you nor any other resources. This should hold true today, or even decades or a century from now. Users need to understand how the data were collected, how to interpret the values, and potentially how to use the data in the case of specialized files. We would be happy to add more content for you. Please provide us with a more robust methods section directly in this email or point us to a document from which we can extract more methods.
 
